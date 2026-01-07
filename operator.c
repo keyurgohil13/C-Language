@@ -2,8 +2,8 @@
 
 void main(){
 	
-	int a = 83; 
-	int b = 10;
+	int a = 40; 
+	int b = 5;
 	
 	//Airthmetic Op
 	int sum = a + b;
